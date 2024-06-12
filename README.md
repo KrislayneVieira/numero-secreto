@@ -9,3 +9,5 @@ Funcionalidades:
 3. Dicas se o palpite é maior ou menor que o número secreto.
 4. Contagem de tentativas.
 5. Mensagem de vitória quando o jogador acerta o número.
+
+link do jogo no Vercel: numero-secreto-wheat-two.vercel.app
