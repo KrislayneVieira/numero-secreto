@@ -10,4 +10,3 @@ Funcionalidades:
 4. Contagem de tentativas.
 5. Mensagem de vitória quando o jogador acerta o número.
 
-link do jogo no Vercel: numero-secreto-wheat-two.vercel.app
